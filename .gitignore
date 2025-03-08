@@ -1,0 +1,11 @@
+/bikehsare_eliz
+/bikeshare_eliz
+/bikeshare_model
+/bikeshare_model.egg-info
+/dist
+/MANIFEST.in
+/mypy.ini
+/pyproject.toml
+/requirements
+/setup.py
+/tests
